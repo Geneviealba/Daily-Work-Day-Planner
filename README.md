@@ -44,3 +44,4 @@ jQuery powers the dynamic rendering of the html content based on user input
 moment.js is used to manipulate date values for historic data extraction from APIs
 
 ## A deployed version can be viewed here.
+https://geneviealba.github.io/Daily-Work-Day-Planner/
