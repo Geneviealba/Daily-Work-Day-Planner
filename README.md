@@ -45,3 +45,19 @@ moment.js is used to manipulate date values for historic data extraction from AP
 
 ## A deployed version can be viewed here.
 https://geneviealba.github.io/Daily-Work-Day-Planner/
+
+https://watch.screencastify.com/v/3Z8CoaSKcaLuPlJX1VyW
+
+
+https://user-images.githubusercontent.com/94097708/148669033-1313bf19-8279-4da7-a5e1-1c4fe56b0dac.mp4
+
+
+
+https://user-images.githubusercontent.com/94097708/148669041-fb564112-2a62-41d0-aa37-66b833ac7571.mp4
+
+
+
+
+        
+    
+
